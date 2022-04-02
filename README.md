@@ -18,7 +18,10 @@ df.head()
 
 2. Use of different basic functions for analyzing key statistics:
 
-- df.describe()
+   **df.decribe()**
+   
+   The describe function displays the below for all the columns with continuous data in the file
+
 - count of record for each column 
 - Mean of the records for that column 
 - Standard deviation
