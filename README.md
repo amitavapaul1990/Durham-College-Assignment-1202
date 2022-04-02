@@ -9,4 +9,11 @@ Before we starting to import the csv file, we need to import below library funct
 * Pandas 
 * matplotlib
 ## Executing Program  
+1. Import CSV files:
+
+- Create a data frame named as ‘df’ and then we need to use read_excel() function from pandas and pass the path & sheet name as argument.
+After that we will use head () function to display the first 5 rows from the dataset.
+df = pd.read_excel('location', sheet_name='Sheet1')
+df.head()
+
 
