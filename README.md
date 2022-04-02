@@ -16,4 +16,16 @@ After that we will use head () function to display the first 5 rows from the dat
 df = pd.read_excel('location', sheet_name='Sheet1')
 df.head()
 
+2. Use of different basic functions for analyzing key statistics:
+
+- count of record for each column 
+- Mean of the records for that column 
+- Standard deviation
+- Minimum value
+- Qualrtile1 range (25% data range)
+- Quartile2 range (50% data range)
+- Quartile2 range (75% data range)
+- Maximum value in the column
+
+
 
