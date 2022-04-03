@@ -43,10 +43,16 @@ df.head()
     This will return the return the median value for the particular column.
     For example: df['Hits']. median ()
     
-    3. **3.df[‘Column name’].std ()**
+    3. **df[‘Column name’].std ()**
     
     This will return the return the standard deviation value for the column.
     For example: df['Hits'].std ()
+    
+    4. **df[‘Column name’]. min()**
+    
+    This will return the return the minimum value for the column.
+    For example: df['Hits'].min()
+    
 
     
  ## Help
