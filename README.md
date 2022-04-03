@@ -31,5 +31,16 @@ df.head()
 - Quartile2 range (75% data range)
 - Maximum value in the column
 
+3. We can use this below function to measure mean, standard deviation, median for individual columns.
+
+    1. **df[‘Column name’].mean()**
+
+    This will return the average value for the column
+    For example: df['Hits']. mean ()
+    2. **df[‘Column name’].median()**
+    This will return the return the median value for the particular column.
+    For example: df['Hits']. median ()
+
+
 
 
