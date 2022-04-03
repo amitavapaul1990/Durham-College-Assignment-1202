@@ -54,6 +54,11 @@ df.head()
  
  * 0.1 
      * Initial Release
+ 
+ ## Acknowledgements 
+ 
+ * w3school
+ * stackoverflow
 
 
 
