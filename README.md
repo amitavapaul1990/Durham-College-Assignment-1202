@@ -37,7 +37,9 @@ df.head()
 
     This will return the average value for the column
     For example: df['Hits']. mean ()
+    
     2. **df[‘Column name’].median()**
+    
     This will return the return the median value for the particular column.
     For example: df['Hits']. median ()
 
