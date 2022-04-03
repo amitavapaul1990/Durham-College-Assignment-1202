@@ -42,6 +42,13 @@ df.head()
     
     This will return the return the median value for the particular column.
     For example: df['Hits']. median ()
+    
+ ## Help
+ 
+ 
+ ## Author
+ 
+ Amitava Paul
 
 
 
