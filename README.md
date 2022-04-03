@@ -53,6 +53,10 @@ df.head()
     This will return the return the minimum value for the column.
     For example: df['Hits'].min()
     
+    5. **df[‘Column name’]. max()**
+    
+    This will return the return the maximum value for the column.
+    For example: df['Hits'].max()
 
     
  ## Help
